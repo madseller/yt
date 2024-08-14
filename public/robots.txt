@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /preferences
+sitemap: https://fruyt.ru/sitemap.xml
